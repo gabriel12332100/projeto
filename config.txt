@@ -1,0 +1,5 @@
+# Configurações do Projeto
+
+Versão: 1.0
+Autor: Gabriel Cirino
+Data de Criação: 31/10/2024
